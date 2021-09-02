@@ -1,0 +1,16 @@
+{
+	"name": "Rude Resources RC1",
+	"description": "Resources modifications for the Naked Corporation server.\n\nThis mod is not compatible with other mdos modifying the LootTable_Resource datatable.\nID Range: none\nPrefix: RudeResources\n\nLootTable_Resources (complete override) modifications:\n- Rocknoses have a special drop rate from 5 to 35 % of giving Eldarium\n- Obsidian node now drops gold at 15% and Eldarium at 10% drop chance as special resources.",
+	"changeNote": "",
+	"author": "Rudeboy",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2591390320",
+	"steamVisibility": 0,
+	"folderName": "RudeResources",
+	"revisionNumber": 314055,
+	"snapshotId": 30574
+}
